@@ -7,7 +7,7 @@ model based on a statistical analysis is developed first. Then the model is used
 the best selling price for a home.
 
 #### Method
-DecisionTreeRegresso and GridSearchCV from sklearn are used.
+DecisionTreeRegressor and GridSearchCV from sklearn are used.
 
 #### Instruction
 To run the program:  
